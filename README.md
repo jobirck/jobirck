@@ -14,11 +14,12 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="60" height="50"/>
 </p>
 
 ## My Current Projects  
-- **Minishell 2** – A small shell that supports pipes and redirections.  
-- **Cuddle** – A data project where I have to reimplement the Pandas library in Python using C.  
+- **42sh** – A complete shell inspire by tcsh.
+- **A-MAZE-D** – A pathfinding program for n robots in a graph. 
 
 ## Projects  
 If you want to see the projects I've worked on, check out my pinned ones!  
