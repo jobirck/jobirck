@@ -19,7 +19,7 @@
 
 ## My Current Projects  
 - **42sh** – A complete shell inspire by tcsh.
-- **A-MAZE-D** – A pathfinding program for n robots in a graph. 
+- **TARDIS** – A data project consists of creating a machine learning program to prevent train delays.
 
 ## Projects  
 If you want to see the projects I've worked on, check out my pinned ones!  
