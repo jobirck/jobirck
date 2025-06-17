@@ -18,8 +18,7 @@
 </p>
 
 ## My Current Projects  
-- **42sh** – A complete shell inspire by tcsh.
-- **TARDIS** – A data project consists of creating a machine learning program to prevent train delays.
+- **Clicker** – A fishing-themed clicker game developed in Java.
 
 ## Projects  
 If you want to see the projects I've worked on, check out my pinned ones!  
