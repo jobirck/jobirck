@@ -20,7 +20,8 @@
 </p>
 
 ## My Current Projects  
-- **Clicker** – A fishing-themed clicker game developed in Java.
+- Restoring an old PS4 to turn it into a home server
+- Fine-tuning project with a friend
 
 ## Projects  
 If you want to see the projects I've worked on, check out my pinned ones!  
