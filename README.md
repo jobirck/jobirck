@@ -20,8 +20,8 @@
 </p>
 
 ## My Current Projects  
-- Restoring an old PS4 to turn it into a home server
-- Fine-tuning project with a friend
+- Cryptographic rust project (xor, aes, rsa, ect)
+- Creating a AI agent based on ollama models about the Warring States period (c. 475 to 221 BC) of ancient China.
 
 ## Projects  
 If you want to see the projects I've worked on, check out my pinned ones!  
